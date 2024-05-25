@@ -1,5 +1,13 @@
 # bookstore
-毕设
+# 毕设-图书商城
+
+> 技术栈：后端springboot
+>
+> 前端：vue3 + ant design vue + vite
+>
+> 数据库：mysql
+
+商城展示效果
 
 ==前台==
 
@@ -22,3 +30,5 @@
 ==动态绑定分类==
 
 ![](MarkdownImage/3.gif)
+
+完整毕设+论文 详谈可联系作者邮箱：panch_x@163.com
